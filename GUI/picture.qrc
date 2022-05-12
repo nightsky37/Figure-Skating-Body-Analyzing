@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="/">
+    <file>images/judge_page.JPG</file>
+    <file>images/gray.PNG</file>
+    <file>images/yuna.jpg</file>
+    <file>images/JudgeTitle.PNG</file>
+    <file>images/orange.PNG</file>
+    <file>images/yellow.PNG</file>
+    <file>images/blue2.PNG</file>
+    <file>images/blue1.PNG</file>
+    <file>images/black.PNG</file>
+    <file>images/displayInfoColor.PNG</file>
+    <file>images/judge.PNG</file>
+    <file>images/about.JPG</file>
+    <file>images/about.PNG</file>
+    <file>images/yuna.jpg</file>
+    <file>images/manual.JPG</file>
+    <file>images/man.jpg</file>
+    <file>images/skates2.jpg</file>
+    <file>images/btn.JPG</file>
+    <file>images/menu.JPG</file>
+    <file>images/icerink.jpg</file>
+  </qresource>
+</RCC>
