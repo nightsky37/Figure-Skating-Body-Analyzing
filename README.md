@@ -1,4 +1,4 @@
-# Figure-Skating-Body-Analyzing
+# Figure-Skating-A-Analyzing
 ### This is our junior independent study in NCU CSIE 
 
 
