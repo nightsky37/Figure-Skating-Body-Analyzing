@@ -10,7 +10,7 @@
 
 * Model  
   * We use LSTM architecture to analyze our dataset.
-  * The LSTM code is from : https://github.com/SBoyNumber1/LSTM-video-classification
+  * The LSTM code is referenced from : https://github.com/SBoyNumber1/LSTM-video-classification
 
 * Body skeleton
   * OpenPose : https://github.com/CMU-Perceptual-Computing-Lab/openpose
@@ -19,4 +19,4 @@
   * We built our GUI by PyQt5.  
   * Uploading jump clips to analyze. 
   * Saving analyzed clips to related category.
-  * We have audio guide(Mandarin) corresponding to jumps.
+  * We have audio guide(Mandarin) corresponding to each jump.
